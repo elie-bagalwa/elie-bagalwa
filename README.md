@@ -1,16 +1,15 @@
-## Hi there 👋
+#  Salut, je suis Elie Bagalwa Lavie !
+Bienvenue sur mon profil GitHub !  
+Je suis **ingénieur en réseaux informatiques et télécommunications**, et passionné par la programmation, l'électronique embarquée et le développement web.   
 
-<!--
-**elie-bagalwa/elie-bagalwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Ce que je fais :
+-  Développement web : HTML, CSS, JavaScript, Node.js, Bootstrap, mysql, firebase.
+-  Projets en électronique embarquée (Arduino, nodeMCU, C).
+-  Freelance avec **Mavision Technologie**.
+-  Projets personnels : applications de gestion, et sites web, système de securité doméstique.
 
-Here are some ideas to get you started:
+## 🌐 Contactez-moi :
+- **LinkedIn** : https://www.linkedin.com/in/elie-bag-lavie-b10104314/
+- **Email** : eliebagalwalavie@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Merci ! 
